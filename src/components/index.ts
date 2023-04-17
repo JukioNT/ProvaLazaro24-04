@@ -1,0 +1,1 @@
+export {PageTitulo as ComponentPageTitulo} from "./PageTitulo"
